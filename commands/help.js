@@ -65,7 +65,6 @@ const helpEmbed = () => new EmbedBuilder()
             inline: true
         },
         {
-        {
             name: ':pencil: Server Supporters',
             value: '[dsc.gg/congdongviet](https://dsc.gg/congdongviet)',
             inline: true
