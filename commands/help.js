@@ -6,7 +6,7 @@ const helpEmbed = () => new EmbedBuilder()
     .addFields(
         {
             name: 'Cài đặt kênh chơi nối từ',
-            value: 'Dùng lệnh slash `/set-channel <channel>` hoặc dùng `?phobo set` trong kênh nối từ.',
+            value: 'Dùng lệnh slash `/set-channel <channel>` trong kênh nối từ.',
             inline: true
         },
         {
@@ -65,18 +65,14 @@ const helpEmbed = () => new EmbedBuilder()
             inline: true
         },
         {
-            name: ':robot: Invite/Vote',
-            value: '[phobobot.xyz](https://phobobot.xyz)',
+        {
+            name: ':pencil: Server Supporters',
+            value: '[dsc.gg/congdongviet](https://dsc.gg/congdongviet)',
             inline: true
         },
         {
-            name: ':pencil: Đóng góp từ/Hỗ trợ',
-            value: '[dsc.gg/phobodev](https://dsc.gg/phobodev)',
-            inline: true
-        },
-        {
-            name: ':information_source: Mã nguồn trò chơi',
-            value: '[github.com/lvdat/bot-noi-tu](https://github.com/lvdat/bot-noi-tu)',
+            name: ':information_source: Info Owner Bot',
+            value: '[Facebook Karos](https://www.facebook.com/profile.php?id=61566035506169)',
             inline: true
         },
 
