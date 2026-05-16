@@ -15,7 +15,7 @@ BOT nối từ tiếng Việt trên Discord! | [Discord Support Server](https://
 ### Cài đặt
 - Clone repo về máy:
 ```bash
-git clone https://github.com/lvdat/bot-noi-tu && cd bot-noi-tu
+git clone https://github.com/KarosDepZai/CDV-NoiTuBot && cd CDV-NoiTuBot
 ```
 - Cài đặt các gói cần thiết:
 ```bash
